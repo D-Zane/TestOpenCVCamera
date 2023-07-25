@@ -1,0 +1,19 @@
+@echo off
+"C:\\Users\\Efimp\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
+  "-HC:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\libcxx_helper" ^
+  "-DCMAKE_SYSTEM_NAME=Android" ^
+  "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
+  "-DCMAKE_SYSTEM_VERSION=29" ^
+  "-DANDROID_PLATFORM=android-29" ^
+  "-DANDROID_ABI=x86" ^
+  "-DCMAKE_ANDROID_ARCH_ABI=x86" ^
+  "-DANDROID_NDK=C:\\Users\\Efimp\\AppData\\Local\\Android\\android-ndk-r25c" ^
+  "-DCMAKE_ANDROID_NDK=C:\\Users\\Efimp\\AppData\\Local\\Android\\android-ndk-r25c" ^
+  "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\Efimp\\AppData\\Local\\Android\\android-ndk-r25c\\build\\cmake\\android.toolchain.cmake" ^
+  "-DCMAKE_MAKE_PROGRAM=C:\\Users\\Efimp\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+  "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\build\\intermediates\\cxx\\Debug\\3p4n3o3h\\obj\\x86" ^
+  "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\build\\intermediates\\cxx\\Debug\\3p4n3o3h\\obj\\x86" ^
+  "-DCMAKE_BUILD_TYPE=Debug" ^
+  "-BC:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\.cxx\\Debug\\3p4n3o3h\\x86" ^
+  -GNinja ^
+  "-DANDROID_STL=c++_shared"

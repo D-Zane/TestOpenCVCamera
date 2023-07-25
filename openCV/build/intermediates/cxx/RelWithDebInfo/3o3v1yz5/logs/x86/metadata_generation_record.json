@@ -1,0 +1,114 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 29 min SDK version: x86",
+    "file_": "C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1295129178
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\.cxx\\RelWithDebInfo\\3o3v1yz5\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1301066477
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1468624493
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\.cxx\\RelWithDebInfo\\3o3v1yz5\\x86\u0027",
+    "file_": "C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1181797631
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\.cxx\\RelWithDebInfo\\3o3v1yz5\\x86\u0027",
+    "file_": "C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 430063373
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\Efimp\\\\AndroidStudioProjects\\\\Test\\\\openCV\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d29\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-29\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Efimp\\\\AndroidStudioProjects\\\\Test\\\\openCV\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\3o3v1yz5\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Efimp\\\\AndroidStudioProjects\\\\Test\\\\openCV\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\3o3v1yz5\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-BC:\\\\Users\\\\Efimp\\\\AndroidStudioProjects\\\\Test\\\\openCV\\\\.cxx\\\\RelWithDebInfo\\\\3o3v1yz5\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 461147457
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\Efimp\\\\AndroidStudioProjects\\\\Test\\\\openCV\\\\libcxx_helper\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d29\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-29\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Efimp\\\\AndroidStudioProjects\\\\Test\\\\openCV\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\3o3v1yz5\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Efimp\\\\AndroidStudioProjects\\\\Test\\\\openCV\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\3o3v1yz5\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-BC:\\\\Users\\\\Efimp\\\\AndroidStudioProjects\\\\Test\\\\openCV\\\\.cxx\\\\RelWithDebInfo\\\\3o3v1yz5\\\\x86\" ^\n  -GNinja ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1069510464
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: -- Configuring incomplete, errors occurred!\n\nC++ build system [configure] failed while executing:\n    @echo off\n    \"C:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n      \"-HC:\\\\Users\\\\Efimp\\\\AndroidStudioProjects\\\\Test\\\\openCV\\\\libcxx_helper\" ^\n      \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n      \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n      \"-DCMAKE_SYSTEM_VERSION\u003d29\" ^\n      \"-DANDROID_PLATFORM\u003dandroid-29\" ^\n      \"-DANDROID_ABI\u003dx86\" ^\n      \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n      \"-DANDROID_NDK\u003dC:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n      \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\" ^\n      \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\23.1.7779620\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n      \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\Efimp\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n      \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Efimp\\\\AndroidStudioProjects\\\\Test\\\\openCV\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\3o3v1yz5\\\\obj\\\\x86\" ^\n      \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\Efimp\\\\AndroidStudioProjects\\\\Test\\\\openCV\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\3o3v1yz5\\\\obj\\\\x86\" ^\n      \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n      \"-BC:\\\\Users\\\\Efimp\\\\AndroidStudioProjects\\\\Test\\\\openCV\\\\.cxx\\\\RelWithDebInfo\\\\3o3v1yz5\\\\x86\" ^\n      -GNinja ^\n      \"-DANDROID_STL\u003dc++_shared\"\n  from C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\nCMake Warning (dev) in CMakeLists.txt:\n  No project() command is present.  The top-level CMakeLists.txt file must\n  contain a literal, direct call to the project() command.  Add a line of\n  code such as\n\n    project(ProjectName)\n\n  near the top of the file, but after cmake_minimum_required().\n\n  CMake is pretending there is a \"project(Project)\" command on the first\n  line.\nThis warning is for project developers.  Use -Wno-dev to suppress it.\n\nCMake Error at C:/Users/Efimp/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/CMakeDetermineSystem.cmake:130 (message):\n  Could not find toolchain file:\n  C:\\Users\\Efimp\\AppData\\Local\\Android\\Sdk\\ndk\\23.1.7779620\\build\\cmake\\android.toolchain.cmake\nCall Stack (most recent call first):\n  CMakeLists.txt\n\n\nCMake Error: CMAKE_C_COMPILER not set, after EnableLanguage\nCMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage",
+    "file_": "C:\\Users\\Efimp\\AndroidStudioProjects\\Test\\openCV\\libcxx_helper\\CMakeLists.txt",
+    "tag_": "release|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1861928607
+  }
+]
